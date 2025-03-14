@@ -24,12 +24,15 @@ Additionally, the receipt entity is linked to employees through a one-to-many re
 By leveraging SQL queries from data being stored within this data model, key business insights can be extracted, such as best-selling items, peak sales times, and ingredient consumption patterns, all of which help Starbucks streamline operations and maximize efficiency.
 
 <img width="876" alt="Screenshot 2025-03-14 at 11 59 38 AM" src="https://github.com/user-attachments/assets/423f405d-1a30-483e-8bd2-983bf4f3bbe9" />
+
 ## Data Dictionary
+
 <img width="478" alt="Screenshot 2025-03-14 at 12 01 19 PM" src="https://github.com/user-attachments/assets/18fcbf02-11f1-404f-ad27-ab435bee11ee" />
 
 <img width="476" alt="Screenshot 2025-03-14 at 12 01 44 PM" src="https://github.com/user-attachments/assets/71a2013d-9eaf-4855-b22e-10ccf94fcd6b" />
 
 <img width="489" alt="Screenshot 2025-03-14 at 12 02 05 PM" src="https://github.com/user-attachments/assets/1c3e0556-266e-439f-bfef-ab8649d1035e" />
+
 ## Queries
 Simple Query 1: Query 1 displays the receipt IDs, total sale value, date of transaction, time of transaction, and employee IDs
 
