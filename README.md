@@ -2,8 +2,6 @@
 # sql_project2
 Group NAME:
 61608 Group 3
-|
-Database name: ha_group_crn61608
 ## Team Members
 1. Cavanaugh, Rory
 2. Chadha, Jasmine
