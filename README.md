@@ -25,7 +25,6 @@ Our question one analysis consisted of the fact that Jaguar leads in average ele
 Our question two analysis consisted of that King County leads Washington in electric vehicle (EV) adoption with 11,751 vehicles, while Garfield County has the fewest at just 3, highlighting stark regional differences in adoption. This data provides a strong foundation for EPB and energy providers to explore what drives adoption in high-density EV counties and how to support underserved areas. Areas with greater EV use could benefit from expanded charging infrastructure, and marketing teams can better target regions with concentrated EV presence. Overall, this analysis can guide strategic investment, resource allocation, and policy planning across the state.
 <img width="637" alt="Screenshot 2025-04-30 at 9 20 33 PM" src="https://github.com/user-attachments/assets/f30df82d-7976-4c17-9f5f-7e3011a00160" />
 
-## Tableau Packaged Workbook
 
 
 
